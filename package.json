@@ -1,0 +1,21 @@
+{
+   "dependencies": {
+      "colors": "^1.4.0",
+      "cors": "^2.8.5",
+      "dotenv": "^16.0.3",
+      "express": "^4.18.2",
+      "mongoose": "^7.0.2",
+      "morgan": "^1.10.0",
+      "slugify": "^1.6.5"
+   },
+   "scripts": {
+      "start": "node server",
+      "dev": "nodemon server"
+   },
+   "name": "madebydut-api",
+   "version": "1.0.0",
+   "description": "Madebydut ecommerce backend api",
+   "main": "server.js",
+   "author": "Aaron Latham",
+   "license": "ISC"
+}
